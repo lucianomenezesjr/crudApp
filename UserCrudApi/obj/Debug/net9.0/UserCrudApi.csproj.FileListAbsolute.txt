@@ -96,3 +96,4 @@
 /home/lucianojr/Documentos/crudUsers/UserCrudApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/lucianojr/Documentos/crudUsers/UserCrudApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
 /home/lucianojr/Documentos/crudUsers/UserCrudApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/lucianojr/Documentos/crudUsers/UserCrudApi/obj/Debug/net9.0/UserCrudApi.sourcelink.json
